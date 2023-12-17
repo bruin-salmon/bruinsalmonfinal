@@ -1,0 +1,30 @@
+body{
+    background-image:url(https://www.sportsfloorsinc.com/wp-content/uploads/2017/12/bg-court.jpg);
+    margin: auto
+}
+   .tableaustyle{
+   display: block;
+    margin: auto;
+   }
+   li{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+   }
+   h1{
+    font-family: 'Courier New', Courier, monospace;
+   }
+   iframe{
+    margin:auto;
+   }
+   img{
+    display:block;
+    margin: auto;
+   }
+   .header{
+    color:red;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px solid white;
+    background-color: white;
+    margin: auto;
+    text-align: center;
+    font-size:x-large;
+   }
